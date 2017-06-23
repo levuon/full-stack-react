@@ -2,7 +2,7 @@
   "name": "full-stack-react",
   "version": "1.0.0",
   "description": "",
-  "main": "initData.js",
+  "main": "",
   "scripts": {
     "dev": "webpack-dev-server",
     "start": "npm run webpack; node server",
